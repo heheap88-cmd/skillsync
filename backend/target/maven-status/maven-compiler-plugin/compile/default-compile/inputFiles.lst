@@ -1,1 +1,7 @@
 C:\my-project\backend\src\main\java\com\skillsync\app\JobApplication.java
+C:\my-project\backend\src\main\java\com\skillsync\app\service\CsvLoaderService.java
+C:\my-project\backend\src\main\java\com\skillsync\app\controller\JobController.java
+C:\my-project\backend\src\main\java\com\skillsync\app\model\UserProfileRequest.java
+C:\my-project\backend\src\main\java\com\skillsync\app\model\JobResponse.java
+C:\my-project\backend\src\main\java\com\skillsync\app\service\JobMatchingService.java
+C:\my-project\backend\src\main\java\com\skillsync\app\model\JobRecord.java

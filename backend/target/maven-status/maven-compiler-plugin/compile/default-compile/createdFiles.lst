@@ -1,1 +1,7 @@
+com\skillsync\app\model\JobResponse.class
+com\skillsync\app\service\CsvLoaderService.class
 com\skillsync\app\JobApplication.class
+com\skillsync\app\model\UserProfileRequest.class
+com\skillsync\app\service\JobMatchingService.class
+com\skillsync\app\controller\JobController.class
+com\skillsync\app\model\JobRecord.class
